@@ -1,3 +1,4 @@
 # I have published gregsblog to github
 # gregbunch/gregsblog
 # The next step for me is learning how to use Heroku. I'll save that for another day.
+# updating username + email for commits
