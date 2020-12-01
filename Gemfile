@@ -10,6 +10,8 @@ gem 'sqlite3', '~> 1.4'
 # added carrier wave 
 gem 'carrierwave'
 gem 'mini_magick'
+# authentification with Devise
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
